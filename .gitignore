@@ -1,0 +1,6 @@
+*.pyc
+*.pyo
+config_vars.py
+app.db
+search.db
+flask
